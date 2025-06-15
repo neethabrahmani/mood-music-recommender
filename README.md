@@ -36,7 +36,7 @@ This project is an AI-based music recommendation system that detects your mood u
 5. Use the GUI to detect mood and play music.
 
 ## 📸 Screenshot
-
+![App Screenshot](screenshot.png)
 Add a screenshot of the GUI or emotion detection results here.
 
 ## 📚 References
