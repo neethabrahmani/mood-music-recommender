@@ -47,8 +47,8 @@ Add a screenshot of the GUI or emotion detection results here.
 ## 🔗 Author
 
 **Neetha Brahmani**  
-Student at XYZ Institute of Technology  
-Email: neetha.brahmani@example.com
+Student at vellore Institute of Technology  
+Email: neethabrahmani@gmail.com
 
 ---
 
